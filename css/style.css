@@ -16,6 +16,7 @@ body{
     text-align: center;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 #pswd{
     min-height: 100px;
@@ -25,5 +26,5 @@ body{
     align-items: center;
     font-weight: bold;
     font-size: 30px;
-
+    color: white;
 }
